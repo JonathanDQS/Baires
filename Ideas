@@ -1,0 +1,34 @@
+Importancia de los campos
+1.- NumberOfRecommendations
+2.- CurrentRole
+3.- NumberOfConnections
+4.- Industry
+5.- Country
+
+NumberOfRecommendations esta listado como primero debido a que se asume que las
+recomendaciones recibidas son de fuentes confiables, por lo tanto se realizo
+un analisis, al menos empirico, del potencial cliente.
+
+CurrentRole, es el siguiente punto a tomar en cuenta debido a que debemos
+contactar a la persona correcta para ofrecer nuestros servicios.
+
+NumberOfConnections, por razones de networking y tomando en cuenta conocimientos
+previos como the Small World Hypothesis esta en tercer lugar.
+
+Industry, penultimo ya que la mayoria de industrias por no decir todas se pueden
+beneficiar de los servicios de BairesDev en sus diferentes niveles de desarrollo
+
+Country, al final ya que no es tan importante el lugar al cual se proveen las
+soluciones de software.
+
+Mejoras
+
+En el caso de priorizacion en el campo CurrentRole.
+Buscador de sinonimos de job title, comparar y asignar probabilidad a dichos
+roles por ejemplo usando https://github.com/johnpcarty/Thesaurus-of-Job-Titles
+o con una api de sinonimos por ejemplo https://api.datamuse.com/
+Ademas se puede implementar un traductor basico en caso de que la informacion
+de los perfiles se encuentre en diferentes idiomas para poder normalizarla
+
+Por el momento la probabilidad de este campo se basa en una lista recopilada de
+la jerarquia general de una empresa
