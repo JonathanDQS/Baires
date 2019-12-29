@@ -1,5 +1,6 @@
 #!/bin/bash
-echo "Test CodingChallenge"
-javac CodingChallenge.java
+echo "CodingChallenge"
+javac *.java
+javadoc -author *.java
 java CodingChallenge
-echo "Success"
+echo "Done"

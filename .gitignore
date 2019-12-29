@@ -1,3 +1,10 @@
 *.class
 *.pdf
 people.in
+*.html
+*.js
+*.zip
+*.css
+jquery
+resources
+element-list

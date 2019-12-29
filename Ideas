@@ -2,12 +2,8 @@ Importancia de los campos
 1.- NumberOfRecommendations
 2.- CurrentRole
 3.- NumberOfConnections
-4.- Industry
-5.- Country
-
-NumberOfRecommendations esta listado como primero debido a que se asume que las
-recomendaciones recibidas son de fuentes confiables, por lo tanto se realizo
-un analisis, al menos empirico, del potencial cliente.
+4.- Country
+5.- Industry
 
 CurrentRole, es el siguiente punto a tomar en cuenta debido a que debemos
 contactar a la persona correcta para ofrecer nuestros servicios.
@@ -15,11 +11,17 @@ contactar a la persona correcta para ofrecer nuestros servicios.
 NumberOfConnections, por razones de networking y tomando en cuenta conocimientos
 previos como the Small World Hypothesis esta en tercer lugar.
 
-Industry, penultimo ya que la mayoria de industrias por no decir todas se pueden
+TODO Reconsiderado
+Country, al final ya que no es tan importante el lugar al cual se proveen las
+soluciones de software./
+
+NumberOfRecommendations esta listado como primero debido a que se asume que las
+recomendaciones recibidas son de fuentes confiables, por lo tanto se realizo
+un analisis, al menos empirico, del potencial cliente.
+
+/Industry, penultimo ya que la mayoria de industrias por no decir todas se pueden
 beneficiar de los servicios de BairesDev en sus diferentes niveles de desarrollo
 
-Country, al final ya que no es tan importante el lugar al cual se proveen las
-soluciones de software.
 
 Mejoras
 
