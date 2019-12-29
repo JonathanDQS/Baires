@@ -1,26 +1,35 @@
 Importancia de los campos
-1.- NumberOfRecommendations
-2.- CurrentRole
-3.- NumberOfConnections
-4.- Country
+1.- CurrentRole
+2.- NumberOfConnections
+3.- Country
+4.- NumberOfRecommendation
 5.- Industry
 
-CurrentRole, es el siguiente punto a tomar en cuenta debido a que debemos
-contactar a la persona correcta para ofrecer nuestros servicios.
+CurrentRole, desde un punto de vista administrativo debemos contactar a la
+persona correcta para ofrecer nuestros servicios, una persona con una posicion
+que le permita tomar decisiones importantes o que cuya voz e ideas sean
+escuchadas, sea por su conocimiento tecnico, administrativo o influencia en
+dicha empresa
 
 NumberOfConnections, por razones de networking y tomando en cuenta conocimientos
-previos como the Small World Hypothesis esta en tercer lugar.
+previos como the Small World Hypothesis ya que contactando a esta persona y
+ofreciendo los servicios se puede redireccionar a la persona a cargo de las
+adquisiones de soluciones de software o recursos humanos que nos requieran
 
-TODO Reconsiderado
-Country, al final ya que no es tan importante el lugar al cual se proveen las
-soluciones de software./
+Country, centrandonos en el beneficio a obtener y salarios acorde al estandar de
+BairesDev, se podrian usar diferentes formas de medicion pero en el caso del
+programa entregado se tomo en cuenta el GDP del pais que quiza no sea lo
+adecuado a largo plazo ya que se podria analizar un crecimiento en el campo
+tecnologico y ordenar los paises en base a eso
 
-NumberOfRecommendations esta listado como primero debido a que se asume que las
-recomendaciones recibidas son de fuentes confiables, por lo tanto se realizo
-un analisis, al menos empirico, del potencial cliente.
+NumberOfRecommendations, poco relevante, es mas una caracteristica subjetiva de
+la persona, sin embargo esto puede significar que es confiable y tiene
+influencia o puede llegar a tenerla por lo cual no se desecha del analisis
 
-/Industry, penultimo ya que la mayoria de industrias por no decir todas se pueden
-beneficiar de los servicios de BairesDev en sus diferentes niveles de desarrollo
+Industry, la mayoria de industrias por no decir todas se pueden beneficiar de
+los servicios de BairesDev en sus diferentes niveles de desarrollo asi que
+dependiendo de la forma de presentar nuestros servicios cualquier empresa de
+cualquier campo necesita nuestros servicios
 
 
 Mejoras
@@ -34,3 +43,11 @@ de los perfiles se encuentre en diferentes idiomas para poder normalizarla
 
 Por el momento la probabilidad de este campo se basa en una lista recopilada de
 la jerarquia general de una empresa
+
+En el campo Country, como ya fue mencionado el GDP del pais podria no ser la
+mejor forma de ordenar la "importancia" del pais a ser asignada
+
+Industry, quiza la perspectiva en este caso no sea la correcta y se le podria
+aumentar prioridad a este campo usando analisis en el crecimiento sectorial de
+las industrias por cada pais para asi focalizar dichos sectores y ofertar los
+servicios de manera mas acertada.
